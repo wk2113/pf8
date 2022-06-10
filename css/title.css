@@ -1,0 +1,24 @@
+#title{
+
+  height: 100%;
+  width: 100%;
+  /*! position: absolute; */
+  padding-top: 162.5px;
+}
+#title .title-cover{
+
+  width: 100%;
+  height: 100%;
+}
+#title .title-cover iframe{
+
+  /*! width: 102.1%; */
+  /*! height: auto; */
+  width: 100%;
+  height: 100%;
+  /*! left: 0; */
+  /*! position: absolute; */
+  /*! top: 0; */
+  padding: ;
+  position: absolute;
+}
